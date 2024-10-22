@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.table-lista-livros td {
+  padding: 20px 20px;
+}
+
+.table-striped th {
+  padding: 20px 20px;
+}
+
+.col-titulo {
+  width: 220px;
+}
+
+.col-autores {
+  width: 190px;
+}
+
+.col-editora {
+  width: 150px;
+}
